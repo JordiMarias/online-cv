@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jordi Marias I Parella
@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: jordi.marias@i2cat.net
-    phone: +34 606071258
+    #phone: +34 606071258
     citizenship: Spanish
     website: jordimarias.github.io #do not add http://
     linkedin: jordi-marias-parella-019a0616a
@@ -67,8 +67,8 @@ education:
       university: UPC (BarcelonaTech) - ETSETB School
       time: 2020 - 2021
       details: |
-        The subjects taught at this degree can be found at the following link: |
-        [Master in Advanced Telecommunications Technologies (UPC)](https://telecos.upc.edu/ca/estudis/masters/masters-degree-in-advanced-telecommunication-technologies-matt) |
+        The subjects taught at this degree can be found at the following link: 
+        [Master in Advanced Telecommunications Technologies (UPC)](https://telecos.upc.edu/ca/estudis/masters/masters-degree-in-advanced-telecommunication-technologies-matt)
         Track in Deep learning for multimedia processing (ETSETB) 
     - degree: BSc in Telecommunications Technologies and Services Engineering (Major in Network Systems)
       university: UPC (BarcelonaTech) - ETSETB School
@@ -80,15 +80,15 @@ experiences:
       time: 2022 - present
       company: Fundació I2cat 
       details: |
-        Working as a Mobility Research Engineer and Software developer for the following European Research projects: |
-        [CARAMEL](https://www.h2020caramel.eu/) |
+        Working as a Mobility Research Engineer and Software developer for the following European Research projects: 
+        [CARAMEL](https://www.h2020caramel.eu/) 
         [PLEDGER](http://www.pledger-project.eu/) 
     - role: R&D Network Engineer Junior
       time: 2021 - 2022
       company: Fundació I2cat 
       details: |
         Connected Mobility Research Engineer. More specifically working on V2X (Vehicle-to-everything) and VANETs (Vehicular Ad-hoc Networks), developing applications over the ETSI C-ITS protocol stack. And also further developing the open-source project Vanetza.
-        During this period I started woring on the CARAMEL project (Link above) and fully completed the VIPMAT project (links below): |
+        During this period I started woring on the CARAMEL project (Link above) and fully completed the VIPMAT project (links below):
         [VIPMAT (Tecsidel)](https://tecsidel.com/press/vipmat/)
         [VIPMAT (Generalitat de Catalunya)](https://smartcatalonia.gencat.cat/ca/detalls/noticia/Barbera-del-Valles-acull-la-prova-pilot-de-Mobilitat-del-vehicle-autonom-connectat-VIPMAT-00001)
     - role: R&D Network Engineer Intern
@@ -116,9 +116,9 @@ experiences:
       company: Roche Diagnostics, Sant Cugat del Valles (Spain)
       details: |
         During the scholarship in Roche Diagnostics, I've been primarily involved in Software Monitoring,
-        Software Development and a few Software Testing. |
+        Software Development and a few Software Testing.
         On the branch of Software Monitoring, I've been working with the so known ELK stack(Logstash,
-        Elasticsearch and Kibana). |
+        Elasticsearch and Kibana).
         On the branch of Software Development, I've been working with a few Python scripts which had to be
         tested and I made the testing on my own.
 projects:
@@ -173,10 +173,10 @@ projects:
 
 #     toolset:
 #       - name: Python & Django
-#         level: 98%
+#         level: 60%
 
 #       - name: C++
-#         level: 98%
+#         level: 55%
 
 #       - name: Angular
 #         level: 98%
