@@ -60,7 +60,7 @@ sidebar:
 education:
     - degree: Master Thesis 
       university: Illinois Institute of Technology (IIT)
-      time: 2021
+      time: "2021"
       details: |
         Research thesis based on Age of Information (AoI) and Vehicular Ad-hoc Networks (VANETs).
     - degree: MSc in Advanced Telecommunications Technologies
