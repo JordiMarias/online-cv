@@ -68,7 +68,7 @@ education:
       time: 2020 - 2021
       details: |
         The subjects taught at this degree can be found at the following link: 
-        [Master in Advanced Telecommunications Technologies (UPC)](https://telecos.upc.edu/ca/estudis/masters/masters-degree-in-advanced-telecommunication-technologies-matt)
+        - [Master in Advanced Telecommunications Technologies (UPC)](https://telecos.upc.edu/ca/estudis/masters/masters-degree-in-advanced-telecommunication-technologies-matt)
         Track in Deep learning for multimedia processing (ETSETB) 
     - degree: BSc in Telecommunications Technologies and Services Engineering (Major in Network Systems)
       university: UPC (BarcelonaTech) - ETSETB School
@@ -81,24 +81,24 @@ experiences:
       company: Fundació I2cat 
       details: |
         Working as a Mobility Research Engineer and Software developer for the following European Research projects: 
-        [CARAMEL](https://www.h2020caramel.eu/) 
-        [PLEDGER](http://www.pledger-project.eu/) 
+        - [CARAMEL](https://www.h2020caramel.eu/) 
+        - [PLEDGER](http://www.pledger-project.eu/) 
     - role: R&D Network Engineer Junior
       time: 2021 - 2022
       company: Fundació I2cat 
       details: |
         Connected Mobility Research Engineer. More specifically working on V2X (Vehicle-to-everything) and VANETs (Vehicular Ad-hoc Networks), developing applications over the ETSI C-ITS protocol stack. And also further developing the open-source project Vanetza.
         During this period I started woring on the CARAMEL project (Link above) and fully completed the VIPMAT project (links below):
-        [VIPMAT (Tecsidel)](https://tecsidel.com/press/vipmat/)
-        [VIPMAT (Generalitat de Catalunya)](https://smartcatalonia.gencat.cat/ca/detalls/noticia/Barbera-del-Valles-acull-la-prova-pilot-de-Mobilitat-del-vehicle-autonom-connectat-VIPMAT-00001)
+        - [VIPMAT (Tecsidel)](https://tecsidel.com/press/vipmat/)
+        - [VIPMAT (Generalitat de Catalunya)](https://smartcatalonia.gencat.cat/ca/detalls/noticia/Barbera-del-Valles-acull-la-prova-pilot-de-Mobilitat-del-vehicle-autonom-connectat-VIPMAT-00001)
     - role: R&D Network Engineer Intern
       time: 2020 - 2021
       company: Fundació I2cat 
-      details: >
+      details: |
         Connected Mobility Research Engineer. More specifically working on V2X (Vehicle-to-everything) and VANETs (Vehicular Ad-hoc Networks), developing applications over the ETSI C-ITS protocol stack. And also further developing the open-source project Vanetza.
         The paradigmatic application developed is the Collision Avoidance use case between a forklift truck and a bike in an industrial environment. This was published to the spanish newspapers:
-        [La Vanguardia](https://www.lavanguardia.com/vida/20201203/49857694661/mercabarna-pone-en-marcha-un-piloto-basado-en-5g-para-evitar-accidentes.html)
-        [MWCapital](https://twitter.com/MWCapital/status/1334490032472793089)
+        - [La Vanguardia](https://www.lavanguardia.com/vida/20201203/49857694661/mercabarna-pone-en-marcha-un-piloto-basado-en-5g-para-evitar-accidentes.html)
+        - [MWCapital](https://twitter.com/MWCapital/status/1334490032472793089)
     - role: Junior Software Developer
       time: 2019 - 2020
       company: Roche Diagnostics, Sant Cugat del Valles (Spain)
