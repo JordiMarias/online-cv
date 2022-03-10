@@ -24,9 +24,9 @@ sidebar:
     #bitbucket:
     twitter: '@SirMarias'
     stack-overflow: 11335404/marias # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: Catalan
@@ -59,7 +59,7 @@ sidebar:
 #       Second paragraph if required.
 education:
     - degree: Master Thesis 
-      university: UPC (BarcelonaTech) - ETSETB School
+      university: Illinois Institute of Technology (IIT)
       time: 2015 - 2019
       details: |
         Research thesis based on Age of Information (AoI) and Vehicular Ad-hoc Networks (VANETs).
