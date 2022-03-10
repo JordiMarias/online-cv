@@ -60,47 +60,45 @@ sidebar:
 education:
     - degree: Master Thesis 
       university: Illinois Institute of Technology (IIT)
-      time: 2015 - 2019
+      time: 2021
       details: |
         Research thesis based on Age of Information (AoI) and Vehicular Ad-hoc Networks (VANETs).
     - degree: MSc in Advanced Telecommunications Technologies
       university: UPC (BarcelonaTech) - ETSETB School
       time: 2020 - 2021
       details: |
-        Activities and societies: The subjects taught at this degree can be found at the following link:
-        https://telecos.upc.edu/ca/estudis/masters/masters-degree-in-advanced-telecommunication-technologies-matt
+        The subjects taught at this degree can be found at the following link: |
+        [Master in Advanced Telecommunications Technologies (UPC)](https://telecos.upc.edu/ca/estudis/masters/masters-degree-in-advanced-telecommunication-technologies-matt) |
         Track in Deep learning for multimedia processing (ETSETB) 
-        Activities and societies: The subjects taught at this degree can be found at the following link: https://telecos.upc.edu/ca/estudis/masters/masters-degree-in-advanced-telecommunication-technologies-matt Track in Deep learning for multimedia processing (ETSETB) 
-        The Master's degree in Advanced Telecommunication Technologies (MATT) offers a broad selection of optional credits that are organised by concentration but also provide enough flexibility for students to create their own profile. On this master’s degree, you can choose one of the concentrations proposed by the schools or build your own specific profile by selecting the optional subjects you are interested in at each school. The track I followed is the track in Deep learning for multimedia processing (ETSETB).
     - degree: BSc in Telecommunications Technologies and Services Engineering (Major in Network Systems)
       university: UPC (BarcelonaTech) - ETSETB School
       time: 2015 - 2019
       #details: |
-        
+
 experiences:
     - role: R&D Network Engineer Professional
       time: 2022 - present
       company: Fundació I2cat 
       details: |
-        Working as a Mobility Research Engineer and Software developer for the following European Research projects:
-        https://www.h2020caramel.eu/
-        http://www.pledger-project.eu/
+        Working as a Mobility Research Engineer and Software developer for the following European Research projects: |
+        [CARAMEL](https://www.h2020caramel.eu/) |
+        [PLEDGER](http://www.pledger-project.eu/) 
     - role: R&D Network Engineer Junior
       time: 2021 - 2022
       company: Fundació I2cat 
       details: |
         Connected Mobility Research Engineer. More specifically working on V2X (Vehicle-to-everything) and VANETs (Vehicular Ad-hoc Networks), developing applications over the ETSI C-ITS protocol stack. And also further developing the open-source project Vanetza.
-        During this period I started woring on the CARAMEL project (Link above) and fully completed the VIPMAT project (links below):
-        https://tecsidel.com/press/vipmat/
-        https://smartcatalonia.gencat.cat/ca/detalls/noticia/Barbera-del-Valles-acull-la-prova-pilot-de-Mobilitat-del-vehicle-autonom-connectat-VIPMAT-00001
+        During this period I started woring on the CARAMEL project (Link above) and fully completed the VIPMAT project (links below): |
+        [VIPMAT (Tecsidel)](https://tecsidel.com/press/vipmat/)
+        [VIPMAT (Generalitat de Catalunya)](https://smartcatalonia.gencat.cat/ca/detalls/noticia/Barbera-del-Valles-acull-la-prova-pilot-de-Mobilitat-del-vehicle-autonom-connectat-VIPMAT-00001)
     - role: R&D Network Engineer Intern
       time: 2020 - 2021
       company: Fundació I2cat 
       details: |
         Connected Mobility Research Engineer. More specifically working on V2X (Vehicle-to-everything) and VANETs (Vehicular Ad-hoc Networks), developing applications over the ETSI C-ITS protocol stack. And also further developing the open-source project Vanetza.
         The paradigmatic application developed is the Collision Avoidance use case between a forklift truck and a bike in an industrial environment. This was published to the spanish newspapers:
-        https://www.lavanguardia.com/vida/20201203/49857694661/mercabarna-pone-en-marcha-un-piloto-basado-en-5g-para-evitar-accidentes.html
-        https://twitter.com/MWCapital/status/1334490032472793089
+        [La Vanguardia](https://www.lavanguardia.com/vida/20201203/49857694661/mercabarna-pone-en-marcha-un-piloto-basado-en-5g-para-evitar-accidentes.html)
+        [MWCapital](https://twitter.com/MWCapital/status/1334490032472793089)
     - role: Junior Software Developer
       time: 2019 - 2020
       company: Roche Diagnostics, Sant Cugat del Valles (Spain)
@@ -118,37 +116,35 @@ experiences:
       company: Roche Diagnostics, Sant Cugat del Valles (Spain)
       details: |
         During the scholarship in Roche Diagnostics, I've been primarily involved in Software Monitoring,
-        Software Development and a few Software Testing.
+        Software Development and a few Software Testing. |
         On the branch of Software Monitoring, I've been working with the so known ELK stack(Logstash,
-        Elasticsearch and Kibana).
+        Elasticsearch and Kibana). |
         On the branch of Software Development, I've been working with a few Python scripts which had to be
         tested and I made the testing on my own.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      The most relevant projects I've been working during my lifetime:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: CARAMEL
+        link: "https://www.h2020caramel.eu/"
+        tagline: "Developed and improved the cybersecurity of the connected vehicle. More specifically the security of the ETSI C-ITS protocol stack"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: PLEDGER
+        link: "http://www.pledger-project.eu/"
+        tagline: "Usage of vehicular communications using MEC servers to raise awareness of Vulnerable Road Users using vehicular communications"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: VIPMAT
+        link: "https://tecsidel.com/press/vipmat/"
+        tagline: "Research on achieving a way of paying toll roads with vehicular communications"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Cobas Infinity
+        link: "https://diagnostics.roche.com/global/en/products/instruments/cobas-infinity-laboratory-solution.html"
+        tagline: "Little contributions as a Junior Software developer to a diagnostics machinery handling software"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Engrescat.org
+        link: "https://engrescat.org/ca/"
+        tagline: "Dynamic website (programmed with Django Framework) for a musical contest that allow new groups to play in the biggest university music festival in Barcelona"
 
 # publications:
 #     title: Publications
