@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: jordi.marias@i2cat.net
     #phone: +34 606071258
-    citizenship: Spanish
+    #citizenship: Spanish
     website: jordimarias.github.io #do not add http://
     linkedin: jordi-marias-parella-019a0616a
     # xing: alandoe
@@ -71,10 +71,13 @@ education:
         - [Master in Advanced Telecommunications Technologies (UPC)](https://telecos.upc.edu/ca/estudis/masters/masters-degree-in-advanced-telecommunication-technologies-matt)
         Track in Deep learning for multimedia processing (ETSETB) 
     - degree: BSc in Telecommunications Technologies and Services
-      Engineering (Major in Network Systems)
+      Engineering
       university: UPC (BarcelonaTech) - ETSETB School
       time: 2015 - 2019
-      #details: |
+      details: |
+      (Major in Network Systems)
+      - [Bachelor's degree in Telecommunications Technologies and Services Engineering](https://telecos.upc.edu/en/study-programs/degrees/bachelors-degree-in-telecommunications-technologies-and-services-engineering?set_language=en)
+      - [Telematics Systems](https://telecos.upc.edu/en/study-programs/degrees/bachelors-degree-in-telecommunications-technologies-and-services-engineering/telematics-systems)
 
 experiences:
     - role: R&D Network Engineer Professional
