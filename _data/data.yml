@@ -15,15 +15,15 @@ sidebar:
     email: jordi.marias@i2cat.net
     phone: +34 606071258
     citizenship: Spanish
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    website: jordimarias.github.io #do not add http://
+    linkedin: jordi-marias-parella-019a0616a
+    # xing: alandoe
+    github: mpjordi
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    twitter: '@SirMarias'
+    stack-overflow: 11335404/marias # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
@@ -38,67 +38,72 @@ sidebar:
       - idiom: English
         level: Professional
 
-    interests:
-      - item: Climbing
-        link:
+    # interests:
+    #   - item: Climbing
+    #     link:
 
-      - item: Snowboarding
-        link:
+    #   - item: Snowboarding
+    #     link:
 
-      - item: Cooking
-        link:
+    #   - item: Cooking
+    #     link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+# career-profile:
+#     title: Career Profile
+#     summary: |
+#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. You can [download this free resume/CV template here]().
+#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#       Donec quam felis, ultricies nec, pellentesque eu.
+#       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master Thesis 
+      university: UPC (BarcelonaTech) - ETSETB School
+      time: 2015 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Research thesis based on Age of Information (AoI) and Vehicular Ad-hoc Networks (VANETs).
+    - degree: MSc in Advanced Telecommunications Technologies
+      university: UPC (BarcelonaTech) - ETSETB School
+      time: 2020 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Activities and societies: The subjects taught at this degree can be found at the following link:
+        https://telecos.upc.edu/ca/estudis/masters/masters-degree-in-advanced-telecommunication-technologies-matt
+        Track in Deep learning for multimedia processing (ETSETB) 
+        Activities and societies: The subjects taught at this degree can be found at the following link: https://telecos.upc.edu/ca/estudis/masters/masters-degree-in-advanced-telecommunication-technologies-matt Track in Deep learning for multimedia processing (ETSETB) 
+        The Master's degree in Advanced Telecommunication Technologies (MATT) offers a broad selection of optional credits that are organised by concentration but also provide enough flexibility for students to create their own profile. On this master’s degree, you can choose one of the concentrations proposed by the schools or build your own specific profile by selecting the optional subjects you are interested in at each school. The track I followed is the track in Deep learning for multimedia processing (ETSETB).
+    - degree: BSc in Telecommunications Technologies and Services Engineering (Major in Network Systems)
+      university: UPC (BarcelonaTech) - ETSETB School
+      time: 2015 - 2019
+      #details: |
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: R&D Network Engineer Professional
+      time: 2022 - present
+      company: Fundació I2cat 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Working as a Mobility Research Engineer and Software developer for the following European Research projects:
+        https://www.h2020caramel.eu/
+        http://www.pledger-project.eu/
+    - role: R&D Network Engineer Junior
+      time: 2021 - 2022
+      company: Fundació I2cat 
+      details: |
+        Connected Mobility Research Engineer. More specifically working on V2X (Vehicle-to-everything) and VANETs (Vehicular Ad-hoc Networks), developing applications over the ETSI C-ITS protocol stack. And also further developing the open-source project Vanetza.
+        During this period I started woring on the CARAMEL project (Link above) and fully completed the VIPMAT project (links below):
+        https://tecsidel.com/press/vipmat/
+        https://smartcatalonia.gencat.cat/ca/detalls/noticia/Barbera-del-Valles-acull-la-prova-pilot-de-Mobilitat-del-vehicle-autonom-connectat-VIPMAT-00001
+    - role: R&D Network Engineer Intern
+      time: 2020 - 2021
+      company: Fundació I2cat 
+      details: |
+        Connected Mobility Research Engineer. More specifically working on V2X (Vehicle-to-everything) and VANETs (Vehicular Ad-hoc Networks), developing applications over the ETSI C-ITS protocol stack. And also further developing the open-source project Vanetza.
+        The paradigmatic application developed is the Collision Avoidance use case between a forklift truck and a bike in an industrial environment. This was published to the spanish newspapers:
+        https://www.lavanguardia.com/vida/20201203/49857694661/mercabarna-pone-en-marcha-un-piloto-basado-en-5g-para-evitar-accidentes.html
+        https://twitter.com/MWCapital/status/1334490032472793089
     - role: Junior Software Developer
       time: 2019 - 2020
-      company: Roche, Sant Cugat del Valles (Spain)
+      company: Roche Diagnostics, Sant Cugat del Valles (Spain)
       details: |
         As an Associate Software Developer I'm working on the development of the project that manages
         diagnostic hospital machinery called Infinity. Over this project I primary work with the following
@@ -110,7 +115,7 @@ experiences:
         - Intersystems Caché
     - role: Software Developer Internship
       time: 2018 - 2019
-      company: Roche, Sant Cugat del Valles (Spain)
+      company: Roche Diagnostics, Sant Cugat del Valles (Spain)
       details: |
         During the scholarship in Roche Diagnostics, I've been primarily involved in Software Monitoring,
         Software Development and a few Software Testing.
@@ -167,27 +172,27 @@ projects:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#       - name: C++
+#         level: 98%
 
-      - name: Angular
-        level: 98%
+#       - name: Angular
+#         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#       - name: HTML5 & CSS
+#         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+#       - name: Ruby on Rails
+#         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
